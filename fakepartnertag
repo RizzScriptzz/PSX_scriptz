@@ -1,0 +1,8 @@
+--loadstring(game:HttpGet('https://raw.githubusercontent.com/RizzScriptzz/psxscripts/main/fakepartnertag'))()
+--loadstring(game:HttpGet(('https://raw.githubusercontent.com/zeuise0002/SSSWWW222/main/README.md'),true))()
+--loadstring(game:HttpGet("https://raw.githubusercontent.com/CheeseOnGithub/cheese-hook/main/main%20hydra%20ui.lua",true))()
+--loadstring(game:HttpGet("https://raw.githubusercontent.com/RizzScriptzz/psxScriptz/main/psx"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RizzScriptzz/PSX_script/main/blah"))()
+--loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+--loadstring(game:HttpGet(('https://raw.githubusercontent.com/zeuise0002/SSSWWW222/main/README.md'),true))()
+--loadstring(game:HttpGet("https://raw.githubusercontent.com/CheeseOnGithub/cheese-hook/main/main%20hydra%20ui.lua",true))()
